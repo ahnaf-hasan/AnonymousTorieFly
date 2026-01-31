@@ -2,8 +2,8 @@
 
 # ==================================================
 # ANONYMOUSTORIEFLY GHOST v26 - Version26 PRO VERSION
-# Author: Ahnaf
-# Description: AnonymousTorieFly Tor Ghost with auto IP rotation.Its easy to use.Its totally safe.
+# Author: Ahnaf Tahmid Hasan
+# Description: AnonymousTorieFly Tor Ghost with auto IP rotation.Its easy to use.Its totally free and safe.
 # SAFE VERSION
 # ==================================================
 
@@ -24,7 +24,7 @@ cat << "EOF"
               Privacy • Anonymity • Research
 
                     Version : 26 PRO
-                    Author  : Ahnaf
+                    Author  : Ahnaf Tahmid Hasan
 
 ══════════════════════════════════════════════════════════════════════════════════
 
