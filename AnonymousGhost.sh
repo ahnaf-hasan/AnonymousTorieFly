@@ -24,7 +24,7 @@ cat << "EOF"
               Privacy • Anonymity • Research
 
                     Version : 26 PRO
-                    Author  : Ahnaf Tahmid Hasan
+                    Author  : AHNAF TAHMID HASAN
 
 ══════════════════════════════════════════════════════════════════════════════════
 
