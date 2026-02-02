@@ -29,9 +29,12 @@ This tool is designed for **privacy, anonymity, and ethical research purposes on
 ## 📦 Installation
 git clone https://github.com/ahnaf-hasan/AnonymousTorieFly.git
 
+cd AnonymousTorieFly
+
 chmod +x AnonymousGhost.sh
 
 ./AnonymousGhost.sh
+
 
 you can see these 
 
