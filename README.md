@@ -27,6 +27,9 @@ This tool is designed for **privacy, anonymity, and ethical research purposes on
 ---
 
 ## 📦 Installation
+
+Follow the steps below to install and run AnonymousTorieFly:
+
 git clone https://github.com/ahnaf-hasan/AnonymousTorieFly.git
 
 cd AnonymousTorieFly
@@ -36,11 +39,18 @@ chmod +x AnonymousGhost.sh
 ./AnonymousGhost.sh
 
 
-you can see these 
+## 🧅 Tor Service Management
 
-sudo systemctl status tor 
+After running the script, you may want to check or control the Tor service manually.
 
+Check Tor status
+sudo systemctl status tor
+
+Stop Tor service
 sudo systemctl stop tor
+
+
+⚠️ Note: Tor must be installed and properly configured on your system for this tool to work correctly.
 
 
 ## 🔧 Firefox Proxy Configuration (Tor SOCKS5)
