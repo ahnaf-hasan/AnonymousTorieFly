@@ -3,7 +3,7 @@
 # ==================================================
 # ANONYMOUSTORIEFLY GHOST v26 - Version26 PRO VERSION
 # Author: Ahnaf Tahmid Hasan
-# Description: AnonymousTorieFly Tor Ghost with auto IP rotation.Its easy to use.Its totally free and safe.
+# Description: AnonymousTorieFly Tor Ghost with auto IP rotation.Its easy to use.Its totally free now.
 # SAFE VERSION
 # ==================================================
 
@@ -75,7 +75,7 @@ ROTATE_INTERVAL = 60
 TOR_BUILD_TIME = 8
 
 COUNTRIES = {
-    # ===== Europe (Most Stable Tor Exit Nodes) =====
+    # ===== Europe (List) =====
     "de":"Germany",
     "nl":"Netherlands",
     "fr":"France",
